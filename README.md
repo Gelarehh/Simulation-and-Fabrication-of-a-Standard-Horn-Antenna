@@ -14,7 +14,7 @@ It is worth mentioning that all simulations were executed in the HFSS environmen
 
 > Fabrication
 
-After receiving promising results from the simulation step, the project entered the fabrication phase. To this end, an Aluminum sheet was prepared, cut to proper sizes, and then Argon boiled, all with the help of specialists of the corresponding fields. 
+After receiving promising results from the simulation step, the project entered the fabrication phase. To this end, an **Aluminum sheet** with proper thickness was prepared, cut to prespecified sizes, and then Argon boiled, all with the help of specialists of the corresponding fields. 
 
 Physical Dimensions:
 - Length:	21.8 cm
