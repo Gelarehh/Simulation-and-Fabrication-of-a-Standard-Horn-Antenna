@@ -1,4 +1,4 @@
-# Simulation-and-Fabrication-of-a-Standard-Horn-Antenna
+# Simulation-and-Fabrication-of-Standard-Horn-Antenna
 
 >Simulation in CST
 
