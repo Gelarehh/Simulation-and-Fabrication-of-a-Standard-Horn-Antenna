@@ -21,11 +21,11 @@ Physical Dimensions:
 - Width:	6.6 cm
 - Height:	8.89 cm
 
-Horn Antenna-Side View
+Side View:
 
 <img src="https://user-images.githubusercontent.com/66460485/120514162-3e4a1600-c3e2-11eb-95b4-e9c38a609750.jpeg" width="350" height="400" />
 
-Horn Antenna-Up View
+Up View:
 
 <img src="https://user-images.githubusercontent.com/66460485/120514084-2a9eaf80-c3e2-11eb-8be0-446ed5cb2eec.jpeg" width="350" height="400" />
 
