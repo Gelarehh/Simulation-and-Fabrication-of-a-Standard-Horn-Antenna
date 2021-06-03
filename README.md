@@ -10,7 +10,7 @@ The antenna could achieve a gain of **14.7 dBi** through simulations.
 
 In addition to calculating the gain, the **S11** parameter was calculated. S11 is known as the reflection coefficient and represents how much power is reflected from the antenna. For the simulated Horn antenna, the S11 parameter was around **-10 dB**.
 
-It is worth mentioning that all simulations were executed in the HFSS environment, too.
+It is worth mentioning that all simulations were executed in the **HFSS** environment, too.
 
 > Fabrication
 
